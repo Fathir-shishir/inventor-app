@@ -1,0 +1,54 @@
+.header-datetime-input {
+  border: 1px solid rgba(0, 0, 0, 0.282);
+  border-radius: 4px;
+  background-color: #4e6b7c;
+  color: #f7f5f5;
+  cursor: text;
+  padding: 15px 15px;
+  width: 250px;
+  font-size: 1rem;
+}
+
+.header-datetime-input:hover {
+  border: 1px solid #a0f630;
+}
+
+.header-datetime-input:focus {
+  border: 2px solid #82e600;
+  outline: none;
+}
+
+.header-datetime-input::placeholder {
+  color: #f7f5f5;
+}
+
+.c-hidden {
+  visibility: hidden;
+}
+
+.c-visible:hover > td > .c-hidden{
+  visibility: visible;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+
+.th-rotate{
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.span-rotate {
+  -ms-writing-mode: tb-rl;
+  -webkit-writing-mode: vertical-rl;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  white-space: nowrap;
+}

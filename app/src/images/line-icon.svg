@@ -1,0 +1,14 @@
+<svg width="800" height="543" viewBox="0 0 800 543" xmlns="http://www.w3.org/2000/svg">
+<rect x="38" width="207" height="207" rx="25" />
+<rect x="297" width="207" height="207" rx="25" />
+<rect x="556" width="207" height="207" rx="25" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M77 208C34.4741 208 0 242.474 0 285C0 327.526 34.4741 362 77 362H723C765.526 362 800 327.526 800 285C800 242.474 765.526 208 723 208H77ZM77 245C54.9087 245 37 262.909 37 285C37 307.091 54.9087 325 77 325H723C745.091 325 763 307.091 763 285C763 262.909 745.091 245 723 245H77Z"/>
+<rect x="77" y="362" width="52" height="181" />
+<rect x="671" y="362" width="52" height="181" />
+<circle cx="77" cy="285" r="39" />
+<circle cx="206" cy="285" r="39" />
+<circle cx="335" cy="285" r="39" />
+<circle cx="464" cy="285" r="39" />
+<circle cx="593" cy="285" r="39" />
+<circle cx="722" cy="285" r="39" />
+</svg>
